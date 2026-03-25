@@ -19,6 +19,57 @@
     /* 让侧边栏更宽一点 */
     .sidebar { width: 280px; }
     .content { padding-top: 20px; }
+
+    /* 复刻个人主页的卡片效果 */
+.course-card {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+    margin-bottom: 25px;
+    border-left: 5px solid var(--theme-color);
+}
+
+/* 蓝色强调卡片 */
+.info-box {
+    background: linear-gradient(135deg, #eef7fd 0%, #fff 100%);
+    border: 1px solid #d6eaf8;
+    border-left: 5px solid #3498db;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+/* 橙色警告/先修要求卡片（模仿您的招生信息块） */
+.warning-box {
+    background: linear-gradient(135deg, #fff8f0 0%, #fff 100%);
+    border: 1px solid #ffeeba;
+    border-left: 5px solid #e67e22;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+/* 网格布局 */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.grid-item {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #eee;
+    transition: transform 0.2s;
+}
+
+.grid-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
   </style>
 
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>

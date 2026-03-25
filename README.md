@@ -1,25 +1,61 @@
-![Course](https://img.shields.io/badge/Course-Big--Data-blue)
-![Platform](https://img.shields.io/badge/Stack-Hadoop%20%7C%20HDFS%20%7C%20MapReduce-orange)
-![University](https://img.shields.io/badge/JSNU-AI%20%26%20CS-red)
+<p align="left">
+  <img src="https://img.shields.io/badge/Semester-2025%20Spring-blue">
+  <img src="https://img.shields.io/badge/Language-Java%2FScala-orange">
+  <img src="https://img.shields.io/badge/Level-Advanced-red">
+</p>
 
-# 大数据技术原理与应用 (Spring 2026)
+# 大数据技术原理与应用
 
-欢迎来到《大数据技术原理与应用》课程主页！本课程旨在介绍大数据处理的底层架构、核心算法及前沿应用。我们将从分布式文件系统出发，深入探索 MapReduce、Spark 计算框架，并结合实际案例进行工程实践。
+<div class="info-box">
+    <strong>📢 最新公告：</strong> 第一次课程将于下周二开始，请同学们务必提前下载好虚拟机镜像。
+</div>
 
-## 🏛 课程基本信息
+<div class="course-card">
+    <h2 style="margin-top:0">📖 课程简介</h2>
+    <p>本课程是计算机科学的核心课程，旨在让学生掌握分布式计算理论与实践。我们将从 <strong>Hadoop</strong> 基础出发，深入探讨 <strong>Spark</strong> 内存计算及大数据安全与隐私等前沿话题。</p>
+</div>
 
-* **开课单位：** 江苏师范大学 人工智能学院
-* **授课教师：** 侯立贺 (Lihe Hou)
-* **上课时间：** 周五 13:50-16:55
-* **上课地点：** 教三楼 328
+<div class="warning-box">
+    <h3 style="margin-top:0; color: #d35400;">⚠️ 先修要求 (Prerequisites)</h3>
+    <ul>
+        <li>熟练掌握 <strong>Java</strong> 或 <strong>Scala</strong> 编程语言。</li>
+        <li>具备基本的 <strong>Linux</strong> 命令行操作能力。</li>
+        <li>建议电脑内存不低于 16GB 以运行分布式集群环境。</li>
+    </ul>
+</div>
 
-## 👨‍🏫 教学团队联系方式
+<div class="course-card">
+    <h2>🛠️ 课程核心模块</h2>
+    <div class="grid-container">
+        <div class="grid-item">
+            <strong>分布式存储</strong>
+            <span>深入研究 HDFS 架构、块管理与容错机制。</span>
+        </div>
+        <div class="grid-item">
+            <strong>并行计算模型</strong>
+            <span>掌握 MapReduce 的 Shuffle 原理与性能调优。</span>
+        </div>
+        <div class="grid-item">
+            <strong>实时流处理</strong>
+            <span>学习 Spark Streaming 与 Flink 的核心思想。</span>
+        </div>
+        <div class="grid-item">
+            <strong>隐私计算 (特色)</strong>
+            <span>结合教师研究方向，探讨差分隐私在图数据中的应用。</span>
+        </div>
+    </div>
+</div>
 
-| 职务         | 姓名   | 办公地点        | 电子邮箱        | 答疑时间 (Office Hours) |
-| :----------- | :----- | :-------------- | :-------------- | :---------------------- |
-| **主讲教师** | 侯立贺 | AI&CS学院 703室 | hou@jsnu.edu.cn | 周三 14:00 - 16:00      |
-| **课程助教** | 待定   |                 |                 |                         |
-
-## 📢 最新公告 (Announcements)
-* **[2026-03-23]** 课程主页正式上线！请同学们尽快浏览[实验环境配置指南](lab-setup.md)并在本周内完成虚拟机安装。
-* **[2026-03-23]** 第一次课件已上传至[课程日程](schedule.md)。
+<div class="course-card">
+    <h2>👨‍🏫 教学团队</h2>
+    <table style="border:none; background:none;">
+        <tr>
+            <td width="100"><img src="Photo224067.jpg" style="border-radius:50%; width:80px;"></td>
+            <td>
+                <strong>主讲教师：侯立贺 博士</strong><br>
+                <span>江苏师范大学人工智能与计算机学院 硕导</span><br>
+                <span>📧 <a href="mailto:houlihe@jsnu.edu.cn">houlihe@jsnu.edu.cn</a></span>
+            </td>
+        </tr>
+    </table>
+</div>
