@@ -1,3 +1,7 @@
+![Course](https://img.shields.io/badge/Course-Big--Data-blue)
+![Platform](https://img.shields.io/badge/Stack-Hadoop%20%7C%20HDFS%20%7C%20MapReduce-orange)
+![University](https://img.shields.io/badge/JSNU-AI%20%26%20CS-red)
+
 # 大数据技术原理与应用 (Spring 2026)
 
 欢迎来到《大数据技术原理与应用》课程主页！本课程旨在介绍大数据处理的底层架构、核心算法及前沿应用。我们将从分布式文件系统出发，深入探索 MapReduce、Spark 计算框架，并结合实际案例进行工程实践。
