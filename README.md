@@ -27,8 +27,8 @@
 </div>
 
 <div class="course-card">
-<h2>🛠️ 课程核心模块</h2>
-<div class="grid-container">
+    <h2 style="margin-top:0">🛠️ 课程核心模块</h2>
+    <div class="grid-container">
     <div class="grid-item">
         <strong>分布式存储</strong>
         <span>深入研究 HDFS 架构、块管理与容错机制。</span>
@@ -37,8 +37,8 @@
         <strong>并行计算模型</strong>
         <span>掌握 MapReduce 的 Shuffle 原理与性能调优。</span>
     </div>
-  </div>
-<div class="grid-container">
+    </div>
+    <div class="grid-container">
     <div class="grid-item">
         <strong>实时流处理</strong>
         <span>学习 Spark Streaming 与 Flink 的核心思想。</span>
@@ -47,11 +47,11 @@
         <strong>隐私计算 (特色)</strong>
         <span>结合教师研究方向，探讨差分隐私在图数据中的应用。</span>
     </div>
-</div>
+    </div>
 </div>
 
 <div class="course-card">
-    <h2>👨‍🏫 教学团队</h2>
+    <h2 style="margin-top:0">👨‍🏫 教学团队</h2>
     <table style="border:none; background:none;">
         <tr>
             <td width="100"><img src="Photo224067.jpg" style="border-radius:50%; width:80px;"></td>
@@ -64,7 +64,7 @@
        <tr>
             <td width="100"><img src=" " style="border-radius:50%; width:80px;"></td>
             <td>
-                <strong>助教（TA）：未定</strong><br>
+                <strong>助教（TA）：待定</strong><br>
                 <span>江苏师范大学AI&CS学院 研究生</span><br>
                 <span>📧 <a href="mailto:XXXX@jsnu.edu.cn">XXXX@jsnu.edu.cn</a></span>
             </td>
