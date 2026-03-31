@@ -53,16 +53,18 @@
 <div class="course-card">
     <h2 style="margin-top:0">👨‍🏫 教学团队</h2>
     <table style="border:none; background:none;">
-        <tr>
-            <td width="100"><img src="Photo224067.jpg" style="border-radius:50%; width:80px;"></td>
-            <td>
-                <strong>主讲教师：侯立贺</strong><br>
-                <span>江苏师范大学AI&CS学院 硕导</span><br>
-                <span>📧 <a href="mailto:houlihe@jsnu.edu.cn">houlihe@jsnu.edu.cn</a></span>
-            </td>
-        </tr>
+			<tr>
+    <td width="100">
+        <img src="Photo224067.jpg" style="border-radius: 50%; width: 80px; height: 80px; object-fit: cover;">
+    </td>
+    <td>
+        <strong>主讲教师：侯立贺</strong><br>
+        <span>江苏师范大学AI&CS学院 硕导</span><br>
+        <span>📧 <a href="mailto:houlihe@jsnu.edu.cn">houlihe@jsnu.edu.cn</a></span>
+    </td>
+			</tr>
        <tr>
-            <td width="100"><img src=" " style="border-radius:50%; width:80px;"></td>
+            <td width="100"><img src="Photo224067.jpg" style="border-radius: 50%; width: 80px; height: 80px; object-fit: cover;"></td>
             <td>
                 <strong>助教（TA）：待定</strong><br>
                 <span>江苏师范大学AI&CS学院 研究生</span><br>
