@@ -7,4 +7,4 @@
 - 数据驱动决策
 
 [开始学习](#README)
-[课程大纲](syllabus.md)
+[教学大纲](#syllabus)
