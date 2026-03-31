@@ -1,8 +1,9 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/Semester-2025%20Spring-blue">
+  <img src="https://img.shields.io/badge/Semester-2026%20Spring-blue">
   <img src="https://img.shields.io/badge/Language-Java%2FScala-orange">
   <img src="https://img.shields.io/badge/Level-Advanced-red">
 </p>
+
 
 # 大数据技术原理与应用
 
@@ -23,7 +24,6 @@
         <li>建议电脑内存不低于 16GB 以运行分布式集群环境。</li>
     </ul>
 </div>
-
 <div class="course-card">
     <h2>🛠️ 课程核心模块</h2>
     <div class="grid-container">
@@ -35,6 +35,8 @@
             <strong>并行计算模型</strong>
             <span>掌握 MapReduce 的 Shuffle 原理与性能调优。</span>
         </div>
+      </div>
+   <div class="grid-container">
         <div class="grid-item">
             <strong>实时流处理</strong>
             <span>学习 Spark Streaming 与 Flink 的核心思想。</span>
@@ -52,8 +54,8 @@
         <tr>
             <td width="100"><img src="Photo224067.jpg" style="border-radius:50%; width:80px;"></td>
             <td>
-                <strong>主讲教师：侯立贺 博士</strong><br>
-                <span>江苏师范大学人工智能与计算机学院 硕导</span><br>
+                <strong>主讲教师：侯立贺</strong><br>
+                <span>江苏师范大学AI&CS学院 硕导</span><br>
                 <span>📧 <a href="mailto:houlihe@jsnu.edu.cn">houlihe@jsnu.edu.cn</a></span>
             </td>
         </tr>
