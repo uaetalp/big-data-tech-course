@@ -26,7 +26,6 @@
 </div>
 </div>
 
-
 <div class="course-card">
 <h2>🛠️ 课程核心模块</h2>
 <div class="grid-container">
@@ -50,6 +49,7 @@
     </div>
 </div>
 </div>
+
 <div class="course-card">
     <h2>👨‍🏫 教学团队</h2>
     <table style="border:none; background:none;">
