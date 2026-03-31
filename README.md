@@ -3,11 +3,16 @@
   <img src="https://img.shields.io/badge/Language-Java%2FScala-orange">
   <img src="https://img.shields.io/badge/Level-Advanced-red">
 </p>
+
+
 # 大数据技术原理与应用
+
+
 
 <div class="info-box">
     <strong>📢 最新公告：</strong> 第一次课程将于下周二开始，请同学们务必提前下载好虚拟机镜像。
 </div>
+
 <div class="course-card">
     <h2 style="margin-top:0">📖 课程简介</h2>
     <p>本课程是计算机科学的核心课程，旨在让学生掌握分布式计算理论与实践。我们将从 <strong>Hadoop</strong> 基础出发，深入探讨 <strong>Spark</strong> 内存计算及大数据安全与隐私等前沿话题。</p>
@@ -20,6 +25,7 @@
   </ul>
 </div>
 </div>
+
 
 <div class="course-card">
 <h2>🛠️ 课程核心模块</h2>
